@@ -18,3 +18,5 @@ conda create -n cpullama python=3.8
 conda activate cpullama
 
 pip install -r requirements.txt
+
+# Create a .env file and place API Key there
